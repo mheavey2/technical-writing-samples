@@ -1,4 +1,4 @@
-![MH Logo](../technical-writing-samples/assets/images/technical-writing-banner.png)
+![MH Logo](https://raw.githubusercontent.com/mheavey2/technical-writing-samples/main/assets/images/technical-writing-banner.png)
 
 # Technical Writing Portfolio
 
